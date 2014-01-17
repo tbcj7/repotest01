@@ -1,0 +1,13 @@
+#block-lp-general-lp-social-banner {
+	float: left;
+	width: auto;
+}
+
+#block-lp-general-lp-social-banner  .social-bookmarks li{
+	float: left;
+}
+
+#banner-inside #block-search-form {
+	background: red;
+	width: auto;
+}
